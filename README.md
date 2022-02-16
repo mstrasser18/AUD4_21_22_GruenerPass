@@ -3,3 +3,4 @@
 ## Gruppe
 
 - Strasser Martin (GL)
+- Ozan Ölmez
