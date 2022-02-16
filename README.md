@@ -4,3 +4,4 @@
 
 - Strasser Martin (GL)
 - Ozan Ölmez
+- Maximilian Brunmaier
