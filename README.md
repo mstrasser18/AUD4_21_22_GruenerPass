@@ -5,3 +5,4 @@
 - Strasser Martin (GL)
 - Ozan Ölmez
 - Maximilian Brunmaier
+- Marcel Jell-Angsüßer
