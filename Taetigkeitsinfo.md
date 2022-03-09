@@ -1,5 +1,9 @@
 # Tätigkeitsinfo
 
-## Datum 02.03.2022
+## 02.03.2022
 
 Über das App "Grüner Pass" geredet.
+
+## 09.03.2022
+
+Ausarbeitung der Fragen (Thema Problem, siehe Angabe)
