@@ -1,0 +1,43 @@
+Welche Daten speichert der QR-Code und wie wird er erzeugt?
+
+//Welche Daten speichert der QR-Code?
+
+Das digitale COVID-Zertifikat der EU wird nur notwendige Informationen wie Name, Geburtsdatum, ausstellende Stelle und eine eindeutige Zertifikatskennung enthalten. Zudem umfasst es folgende Angaben:
+
+    Impfzertifikat: Impfstoff und Hersteller, Anzahl der verabreichten Dosen, Datum der Impfung;
+    Testzertifikat: Art des Tests, Datum und Uhrzeit des Tests, Testzentrum und Ergebnis;
+    Genesungszertifikat: Datum des positiven Testergebnisses, Geltungsdauer.
+
+
+//Wie funktioniert das Zertifikat?
+
+1. Das digitale COVID-Zertifikat der EU enthält einen QR-Code mit elektronischer Signatur zum Schutz vor Fälschung.
+
+2. Bei der Kontrolle werden QR-Code und Signatur überprüft.
+
+3. Jede ausstellende Stelle (Krankenhaus, Testzentrum oder Gesundheitsbehörde) hat ihren eigenen digitalen Signaturschlüssel. Sämtliche Schlüssel sind EU-weit in einer sicheren Datenbank gespeichert.
+
+4. Die EU-Kommission hat eine Schnittstelle eingerichtet, über die alle Zertifikat-Signaturen EU-weit überprüft werden können. Hierbei werden keine personenbezogenen Daten des Zertifikat-Inhabers übermittelt, da dies für die Überprüfung der elektronischen Signatur nicht erforderlich ist. Die EU-Kommission hat die Mitgliedstaaten auch bei der Entwicklung nationaler Software und Apps für die Ausstellung, Speicherung und Überprüfung von Zertifikaten sowie bei den erforderlichen Tests zwecks Zuschaltung zur EU-Schnittstelle unterstützt.
+
+
+//Wie erhalte ich ein Testzertifikat?
+
+Für die Ausstellung sind die nationalen Behörden zuständig. Es könnte beispielsweise von Testzentren oder Gesundheitsbehörden oder direkt über ein eHealth-Portal ausgestellt werden. 
+
+    Impfzertifikate werden von dem Mitgliedstaat ausgestellt, in dem die Impfung erfolgte.
+    Testzertifikate werden von dem Mitgliedstaat ausgestellt, in dem der Test durchgeführt wurde.
+    Genesungszertifikate werden von dem Mitgliedstaat ausgestellt, in dem sich die genesene Person aufhält.
+
+Wie Sie das Zertifikat erhalten, erfahren Sie normalerweise von den nationalen Gesundheitsbehörden. 
+
+Die digitale Version kann auf einem mobilen Gerät gespeichert werden. Man kann auch eine Papierfassung anfordern. Beide Versionen weisen einen QR-Code mit zentralen Informationen sowie eine digitale Unterschrift auf, um die Echtheit des Zertifikats zu bestätigen.
+
+Die Mitgliedstaaten haben sich auf ein gemeinsames Muster geeinigt, das sowohl elektronisch als auch auf Papier die Erkennung erleichtert.
+
+
+
+
+
+Quelle: https://www.gesundheit.gv.at/aktuelles/gruener-pass-app
+Quelle: https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_de
+Quelle: https://ec.europa.eu/commission/presscorner/detail/de/QANDA_21_2781
