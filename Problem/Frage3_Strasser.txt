@@ -1,0 +1,33 @@
+Welche Daten speichert der QR-Code und wie wird er erzeugt?
+
+Ein QR-Code kann z.B. --raw greenpass.png dekodiert werden. Das Ergebiniss ist ein Base45 verschlüsselter, kompremierter, signierter Text.
+Im hexdump (--raw greenpass.png|cut -b5-|tr -d '\n'|base45 --decode|openssl zlib -d|xxd) können die infos in den Metadaten gefunden werden.
+
+Inhalt (python-generiert, siehe Quelle):
+
+{-260: {1: {'dob': '1998-02-26', date of birth
+            'nam': {'fn': 'Musterfrau-Gößinger', family name
+                    'fnt': 'MUSTERFRAU<GOESSINGER',
+                    'gn': 'Gabriele', given name
+                    'gnt': 'GABRIELE'},
+            'v': [{'ci': 'URN:UVCI:01:AT:10807843F94AEE0EE5093FBC254BD813#B', certificate ID
+                   'co': 'AT', country of vaccination
+                   'dn': 1, doses received
+                   'dt': '2021-02-18', date of vaccination
+                   'is': 'Ministry of Health, Austria', cert issuer
+                   'ma': 'ORG-100030215', vaccine manufacturer
+                   'mp': 'EU/1/20/1528', vaccine product id
+                   'sd': 2, total number of doses
+                   'tg': '840539006', targeted disease (COVID-19)
+                   'vp': '1119349007'}], vaccine or prophylaxis
+            'ver': '1.2.1'}}, schema version
+ 1: 'AT', QR code issuer
+ 4: 1624458597, QR code expiry
+ 6: 1624285797} QR code generated
+
+
+Quellen:
+https://gir.st/blog/greenpass.html
+https://ec.europa.eu/health/system/files/2021-06/covid-certificate_json_specification_en_0.pdf
+https://github.com/ehn-dcc-development/hcert-spec/blob/main/README.md
+https://github.com/ehn-dcc-development/ehn-sign-verify-python-trivial
