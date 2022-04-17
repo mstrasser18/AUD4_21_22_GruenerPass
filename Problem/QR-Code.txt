@@ -1,0 +1,39 @@
+QR-Code
+Inhalt
+Der genaue Inhalt des QR-Codes ist abhängig vom Zertifikattyp. Folgende Daten sind in jedem Zertifikat enthalten:
+
+>Identität des Inhabers
+	>>Geburtsdatum
+	>>Vor- und Nachname
+
+>Metadaten des Zertifikats
+	>>Austeller
+	>>Eindeutige Kennung
+	>>Datum der Generierung
+	>>Verfallsdatum
+
+Abhängig vom Typ enthält das Zertifikat die spezifischen Daten:
+
+>Impfzertifikat
+	>>Informationen über den Impfstoff (Hersteller, …)
+	>>Anzahl der verabreichten Dosen
+	>>Datum der letzten Impfung
+>Genesungszertifikat
+	>>Informationen über frühere Infektionen des Inhabers nach einem positiven Testergebnis
+>Testzertifikat
+	>>Informationen über die Art des Tests (z.B. Antigen oder PCR)
+	>>Datum der Testung
+	>>Ort der Testung
+
+
+Generierung
+//Grafik: Generierung QR-Code
+//Grafik: JSON-Schema QR-Code
+
+Verifizierung
+Eine Public-Key-Infrastruktur soll die zuverlässige und sichere Ausstellung und Überprüfung der Echtheit,
+Gültigkeit und Integrität der Zertifikate ermöglichen, um Betrug und Fälschungen aufzudecken.
+Dazu enthält das digitale COVID-Zertifikat eine elektronische Signatur. 
+Jede ausstellende Stelle hat ihren eigenen digitalen Signaturschlüssel. 
+Sämtliche Schlüssel sind EU-weit in einer Datenbank gespeichert. Die EU-Kommission hat eine Schnittstelle eingerichtet,
+über die alle Zertifikat-Signaturen überprüft werden können

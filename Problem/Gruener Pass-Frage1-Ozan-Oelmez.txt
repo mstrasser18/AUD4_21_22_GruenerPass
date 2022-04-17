@@ -1,6 +1,0 @@
-Welche Schwachstellen hat das aktuelle System mit seinen beiden Apps?
--Mann benötigt nur einen gültigen QR Code, kann sehr leicht gefälscht werden-> wird nicht genau überprüft.
--Funktioniert ohne Internetverbindung, Daten werden nicht vom Server abgefragt.
--Die Daten werden nur vom QR Code genommen.
--Unnötige Verdopplungen(wenn ein neues QR Code gescannt wird).
-
