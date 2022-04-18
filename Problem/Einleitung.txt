@@ -1,0 +1,18 @@
+
+Seit 2020 ist die Welt von der Covid-19-Pandemie betroffen. Im Zuge der Öffnungsschritte, welche vom Gesetzgeber durchgeführt wurden,
+kam es zur Einführung der sogenannten „G-Regeln“. Mit den „EU Digital COVID Certificates“ wurde eine einheitliche Lösung
+der EU-Mitgliedstaaten für dieses Problem geschaffen, um unter Anderem den Reiseverkehr bei den aktuell geltenden Regeln zu vereinfachen.
+
+Mit den „EU Digital COVID Certificates“, bzw. in Österreich als „Grüner Pass“ bekannt, können
+>Impfungen
+>Genesungen oder
+>Negative Testergebnisse
+Im Zusammenhang mit SARS-CoV-2 dokumentiert werden. 
+Jedes Zertifikat ist mit einem speziellen QR-Code versehen, mit welchem die Überprüfung der Zertifikate vorgenommen werden können. 
+
+In Österreich wird dieses System mit zwei einfach zu bedienenden Apps umgesetzt:
+>Grüner Pass: Dient zur Speicherung von Zertifikaten
+>GreenCheck: Dient zur schnellen und einfachen Überprüfung der Zertifikate (abhängig der geforderte G-Regel)
+
+Jedoch hat dieses, im Eiltempo entwickeltes, System einige Schwachstellen, welche oft auf einfachem Wege ausgenützt werden können.
+

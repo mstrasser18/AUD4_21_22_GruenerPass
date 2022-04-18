@@ -1,7 +1,0 @@
-
-Die digitale Zugriffskontrolle hat nur wenige Schwachstellen, aber auch nur, wenn die Kontrolle sorgfältig und vollständig erfolgt. 
-Bei einer vollständigen Kontrolle (mit Lichtbildausweis und GreenCheck) ist es einfacher, 
-Fälschungen zu erkennen, weil bei diesem oft die Signatur fehlt. Wird jedoch nur kontrolliert, 
-ob ein Code vorhanden ist (Sichtkontrolle z.B. in der Grüner Pass-App) wird eine Fälschung lange unerkannt bleiben. 
-Hinzu kommt, das fast der gesamte technische Hintergrund öffentlich bekannt ist (bzw. sein muss). Auch der Datenschutz 
-ist ein Problem, da er die schnelle und genaue Überprüfung erschwert (GreenCheck überprüft nicht das Impfregister)
